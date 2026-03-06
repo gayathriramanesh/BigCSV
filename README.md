@@ -1,4 +1,4 @@
-# Fulfil — CSV Product Ingestion System
+# BigCSV — CSV Product Ingestion System
 
 A CSV ingestion system built with FastAPI, Celery, Redis, PostgreSQL, React, and AWS S3. It supports uploading CSV files, background processing, and viewing ingested products with pagination.
 
